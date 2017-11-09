@@ -9,7 +9,7 @@ Today's lab will consist of:
 - git commit and push
 
 ## Cloning existing project and collaborate on code
-- git clone https://github.com/chektien/ict2101_test.git
+- git clone https://github.com/chektien/ict2101-git.git
 - make some changes
 - git commit and push
 - I make some changes
