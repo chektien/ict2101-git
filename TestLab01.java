@@ -13,7 +13,7 @@ public class TestLab01 {
     @BeforeClass
     public static void init() {
         // new comment
-        // added comment user2
+        // user 1 and 2s comment
         System.out.println("START Grading TestLab01...\n(only failed tests are shown)\n");
     }
 
