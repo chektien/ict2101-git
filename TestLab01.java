@@ -12,6 +12,7 @@ public class TestLab01 {
 
     @BeforeClass
     public static void init() {
+        System.out.println("this is the ultimate new println feature");
         System.out.println("START Grading TestLab01...\n(only failed tests are shown)\n");
     }
 
