@@ -9,15 +9,11 @@ Today's lab will consist of:
 - git commit and push
 
 ## Cloning existing project and collaborate on code
-- git clone https://github.com/chektien/ict2101-git.git
-- make some changes
-- git commit and push
-- I make some changes
-- git pull
-- then both you and me make changes
-- git merge
+- stu1 fork https://github.com/chektien/ict2101-git.git
+- stu2 clone stu1's fork
+- both make changes
+- merge and resolve conflicts
 
 ## Merging and pull requests
 - everyone create a branch
-- merge and resolve conflicts
 - pull request
