@@ -13,6 +13,7 @@ Students should try the following exercises.
 ## Cloning existing project and collaborate on code
 - stu1 fork https://github.com/chektien/ict2101-git.git
 - stu2 clone stu1's fork
+- stu1 add stu2 as collaborator on github
 - both make changes on the same line in the code
 - merge and resolve conflicts
 
