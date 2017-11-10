@@ -12,7 +12,7 @@ public class TestLab01 {
 
     @BeforeClass
     public static void init() {
-        System.out.println("START Grade TestLab01...\n(only failed tests are shown)\n");
+        System.out.println("STARTing Grade TestLab01...\n(only failed tests are shown)\n");
     }
 
     @AfterClass
