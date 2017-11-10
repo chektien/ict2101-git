@@ -7,6 +7,7 @@ import org.junit.Assert;
 import junitx.framework.FileAssert;
 
 public class TestLab01 {
+    // new comment
     File a = new File("input.txt");
     File b = new File("output.txt");
 
